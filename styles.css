@@ -165,9 +165,9 @@ main div ul .btn-container button:nth-child(2) {
     border-radius: 20px;
     width: 400px;
   }
-  main div:nth-child(3) {
+/*   main div:nth-child(3) {
     padding-bottom: 20px;
-  }
+  } */
   main div:hover {
     margin-bottom: 0;
   }
