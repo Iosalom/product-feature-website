@@ -180,6 +180,9 @@ main div ul .btn-container button:nth-child(2) {
   }
 }
 @media (max-width: 460px) {
+   main {
+    margin-top: 1200px;
+  }
   main div {
     width: 300px;
   }
